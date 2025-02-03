@@ -11,7 +11,6 @@ public class Carrinho {
 	
 	public void adicionarItem(Item item) {
 		itens.add(item);
-				System.out.println(item.getNome() + " foi adicionado ao carrinho" );
 	}
 	
 	public void removerItem(int codigo) {
