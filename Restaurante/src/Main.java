@@ -17,8 +17,8 @@ public class Main {
         Item item11 = new Item("Salmão Grelhado", 27.99, 11);
         Item item12 = new Item("Bobá de Camarão", 23.99, 12);
         Item item13 = new Item("Mariscada", 21.99, 13);
-        Item item14 = new Item("Feijoada", 11.99, 14);
-        Item item15 = new Item("Escondidinho de Carne", 2.99, 15);
+        Item item14 = new Item("Feijoada", 21.99, 14);
+        Item item15 = new Item("Escondidinho de Carne", 19.99, 15);
         Item item16 = new Item("Água Mineral 500ML", 2.99, 16);
         Item item17 = new Item("Água com Gás 500Ml", 3.99, 17);
         Item item18 = new Item("Coca Cola 350ML", 4.99, 18);
